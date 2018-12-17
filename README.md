@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+NarronViewTool::Renderer.copyright 'Seamus Narron', 'All rights reserved'
+```
 
 ## Development
 
